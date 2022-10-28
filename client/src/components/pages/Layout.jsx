@@ -1,0 +1,21 @@
+import React from "react";
+import Navbar from "../Navbar";
+
+
+const Layout = ({children}) => {
+  return (
+    <React.Fragment>
+        <Navbar/>
+        <div className="columns mt-6" style={{ minHeight:"100vh"}}>
+            <div className="column has-background-light">
+              <br></br>
+              <br></br>
+              <br></br>
+                <main>{children}</main>
+            </div>
+        </div>
+    </React.Fragment>
+  );
+};
+
+export default Layout;
