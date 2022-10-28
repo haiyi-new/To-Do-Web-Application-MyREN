@@ -8,10 +8,10 @@
     <h2>Register</h2>
     <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/register.jpg"></img>
     <br><br><br>
-    <h2>Dashboardt</h2>
+    <h2>Dashboard</h2>
     <img style='border-radius:5px' src="https://github.com/haiyi-new/To-Do-Web-Application-MyREN/blob/master/images/Dashbord.jpg"></img>
     <h2>To Do List</h2>
-    <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/main.jpg"></img>
+    <img style='border-radius:5px' src="https://github.com/haiyi-new/To-Do-Web-Application-MyREN/blob/master/images/Main%20todo.jpg"></img>
 </div>
 <hr>
 
