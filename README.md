@@ -8,7 +8,9 @@
     <h2>Register</h2>
     <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/register.jpg"></img>
     <br><br><br>
-    <h2>Main To Do List</h2>
+    <h2>Dashboardt</h2>
+    <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/main.jpg"></img>
+    <h2>To Do List</h2>
     <img style='border-radius:5px' src="https://github.com/haiyi-new/Todo-App-Krenovator--Project1-/blob/master/images/main.jpg"></img>
 </div>
 <hr>
